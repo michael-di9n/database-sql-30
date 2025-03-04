@@ -1,2 +1,2 @@
-# mobile-development-150
-Mobile development 150 days
+# Databases SQL 
+Learning SQL for 30days
